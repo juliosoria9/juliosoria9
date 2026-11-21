@@ -99,3 +99,16 @@ Y más: [Karma](https://github.com/juliosoria9/Karma) (app móvil con React Nati
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
+## Actividad
+
+<div align="center">
+
+<img src="profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="Estadísticas de GitHub">
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Lenguajes con más commits">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliosoria9/juliosoria9/output/serpiente-oscura.svg">
+  <img src="https://raw.githubusercontent.com/juliosoria9/juliosoria9/output/serpiente.svg" alt="Serpiente comiéndose la gráfica de contribuciones">
+</picture>
+
+</div>
